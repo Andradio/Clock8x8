@@ -10,4 +10,8 @@ if(Jurij != "OK"){
 Jurij.out("херня якась");
 
 }
+if("неділя"){
+Jurij.sleep();
+}
+
 }
