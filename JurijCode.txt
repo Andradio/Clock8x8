@@ -1,0 +1,13 @@
+while(1){
+if(Jurij == "OK"){
+
+Jurij.out("УРА!");
+
+}
+
+if(Jurij != "OK"){
+
+Jurij.out("херня якась");
+
+}
+}
